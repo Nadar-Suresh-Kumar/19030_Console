@@ -1,0 +1,5 @@
+C:\Users\anmol\OneDrive\Desktop\bankpublish\bank.exe
+C:\Users\anmol\OneDrive\Desktop\bankpublish\bank.dll
+C:\Users\anmol\OneDrive\Desktop\bankpublish\bank.deps.json
+C:\Users\anmol\OneDrive\Desktop\bankpublish\bank.runtimeconfig.json
+C:\Users\anmol\OneDrive\Desktop\bankpublish\bank.pdb
