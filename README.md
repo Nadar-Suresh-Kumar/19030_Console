@@ -36,3 +36,7 @@ Username : 1234567890 and password : 1234
 Langchain:  https://hugs-mu.vercel.app/
 
 https://huggingface.co/spaces/sureshimprint/okay text to image
+
+s3 link : https://myvoiceclone.s3.ap-south-1.amazonaws.com/cup.png
+
+
